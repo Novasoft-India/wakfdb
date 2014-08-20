@@ -1,0 +1,2 @@
+Wakf DB User name:admin
+Password:admin
